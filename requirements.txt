@@ -1,0 +1,13 @@
+streamlit
+streamlit-cropper
+torch
+timm
+Pillow
+scikit-learn
+pymilvus>=2.4.4
+certifi
+requests
+towhee
+gradio
+opencv-python
+sentence-transformers
