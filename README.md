@@ -22,6 +22,7 @@ docker compose down
 ```
 
 ## Code
+* Currently milvus does not support for Windows, Use WSL instead
 * Run the codeline at milvus_search.ipynb, put the dataset locally  
 
 ## Result
